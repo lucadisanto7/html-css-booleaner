@@ -33,6 +33,26 @@
 #list{
     margin-left: 20px;
     margin-top: 20px;
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;   
 }
+.column{
+    margin-left: 100px;
+}
+table{
+    width: 100%;
+}
+th{
+    text-align: left;
+    background-color: #4ac3e7;
+    margin: auto;
+    color: white;
+}
+tbody, td{
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+.table-row{
+    background-color: rgba(50, 167, 221, 0.582);
+}
+
