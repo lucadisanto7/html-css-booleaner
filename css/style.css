@@ -14,3 +14,9 @@
     height: 75px;
     background-size: 300px;
 }
+#author{
+    color: grey;
+}
+#booleaner{
+    color: rgb(68, 192, 230);
+}
