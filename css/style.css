@@ -14,7 +14,7 @@
     height: 75px;
     background-size: 300px;
 }
-#author{
+.author{
     color: grey;
 }
 #booleaner{
@@ -59,4 +59,15 @@ tbody, td{
 #paragraph-text{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.other-images{
+    position: relative;
+    color: white;
+    margin-bottom: 10px;
+}
+.last-text{
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    font-size: larger;
 }
