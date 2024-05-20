@@ -24,5 +24,8 @@
     margin-top: 20px;
 }
 .image-description{
-    font-size: 12px;
+    margin-bottom: 20px;
+}
+.marker{
+    background-color: yellow;
 }
