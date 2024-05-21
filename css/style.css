@@ -8,8 +8,8 @@
     margin: 0 auto;
 }
 #logo{
-    height: 60%;
-    margin-top: 26px;
+    height: 60px;
+    margin-top: 16px;
 }
 .background-image{
     background-color: #4893e9;
@@ -66,14 +66,20 @@ tbody, td{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.last-text{
+    padding: 10px;
+}
 .other-images{
-    position: relative;
-    color: white;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
     margin-bottom: 10px;
 }
+.other-images-two{
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+}
 .last-text{
-    position: absolute;
-    top: 10px;
-    left: 70px;
-    font-size: larger;
+    color: white;
 }
