@@ -52,6 +52,9 @@ th{
     margin: auto;
     color: white;
 }
+.text{
+    width: 50%;
+}
 tbody, td{
     padding-top: 15px;
     padding-bottom: 15px;
